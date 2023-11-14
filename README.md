@@ -10,4 +10,4 @@ Belajar GitHub &amp; MarkDown
 
 [VARLOG] (https://www.markdownguide.org/cheat-sheet/)
 
-![INDONESIA(https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/2000px-Flag_of_Indonesia.svg.png)
+![INDONESIA](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/2000px-Flag_of_Indonesia.svg.png)

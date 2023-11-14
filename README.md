@@ -10,4 +10,4 @@ Belajar GitHub &amp; MarkDown
 
 [VARLOG] (https://www.markdownguide.org/cheat-sheet/)
 
-![INDONESIA](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/2000px-Flag_of_Indonesia.svg.png)
+![DOTA 2](https://ww2.freelogovectors.net/wp-content/uploads/2018/04/dota-2-logo_freelogovectors.net_.jpg?lossy=1&w=2560&ssl=1)
